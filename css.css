@@ -1,0 +1,25 @@
+body{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    background-color: rgb(213, 220, 223) ;
+}
+
+.img1, .img2, .img3{
+    width: 400px;
+}
+
+.card3{
+    width: 900px;
+    position: relative;
+    bottom: -30px;
+}
+
+.card21{
+    position: relative;
+    left: 230px;
+}
+
+.card22{
+    position: relative;
+    right: 230px;
+}
